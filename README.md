@@ -3,7 +3,7 @@
 - 🔭 Saat ini saya berkuliah di UPN Veteran Jawa Timur
 - 🌱 Saya mahasiswa fakultas Ilmu Komputer
 - 👯 Saya tertarik di bidang Web Development
-- 🤔 ISaya menerima apapun saran dan kritik.
+- 🤔 Saya menerima apapun saran dan kritik.
 - 💬 Tanyakan apa saja tentangku.
 - 📫 How to reach me: nathanaelkristian0902@gmail.com
 
